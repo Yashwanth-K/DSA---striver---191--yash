@@ -1,11 +1,11 @@
 import java.util.ArrayList;
 
-public class StackUsingArray_1 {
+public class _1_StackUsingArray {
     private ArrayList<Integer> list;
 
     // Constructor
     public StackUsingArray_1() {
-        list = new ArrayList<>()  
+        list = new ArrayList<>();
     }
 
     // Stack-like operations
