@@ -4,7 +4,7 @@ public class _1_StackUsingArray {
     private ArrayList<Integer> list;
 
     // Constructor
-    public StackUsingArray_1() {
+    public _1_StackUsingArray() {
         list = new ArrayList<>();
     }
 
